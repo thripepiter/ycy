@@ -14,7 +14,7 @@
 ## 野草云 优惠活动
 
 ### 香港Intel常规VPS套餐
-| CPU | 内存 | SSD | 带宽|月流量 | 年付 | 购买链接 |
+| CPU | 内存 | SSD | 带宽| 年付 | 购买链接 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2核 | 2G | 15G | 5Mbps@不限或100Mbps/500G | 88元 | [购买](https://my.yecaoyun.com/aff.php?aff=4264&pid=460) |
 | 2核 | 4G | 30G | 6Mbps@不限或100Mbps/800G | 120元 | [购买](https://my.yecaoyun.com/aff.php?aff=4264&pid=459) |
