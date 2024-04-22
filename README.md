@@ -9,7 +9,7 @@
 [https://yecaoyun.com/](https://my.yecaoyun.com/aff.php?aff=4264)
 
 ## 野草云 优惠码
-- **4折优惠码**：`[2024LABORDAY](https://my.yecaoyun.com/aff.php?aff=4264)`（限新客首单1年付，截止5月20日）
+- **4折优惠码**：[2024LABORDAY](https://my.yecaoyun.com/aff.php?aff=4264)（限新客首单1年付，截止5月20日）
 
 ## 野草云 优惠活动
 
